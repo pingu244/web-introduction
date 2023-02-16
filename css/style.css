@@ -1,0 +1,29 @@
+table {
+    width: 100%;
+    border: 1px solid #444444;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th,
+td {
+    border: 1px solid #444444;
+    padding: 10px;
+}
+
+#div1 {
+    background-color: #f1e8ff;
+    border: 2px solid rgb(200, 189, 255);
+    padding: 10px;
+}
+
+#div2 {
+    border: 2px solid rgb(137, 0, 0);
+    padding: 30px;
+}
+
+#div3 {
+    background-color: #eeffea;
+    border: 2px solid rgb(0, 164, 36);
+    padding: 20px;
+}
